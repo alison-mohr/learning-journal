@@ -1,3 +1,7 @@
+---
+layout: default
+title: Learning Markdown
+---
 
 # Learning Markdown 
 
