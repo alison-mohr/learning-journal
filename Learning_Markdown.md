@@ -1,8 +1,6 @@
 
 ---
 layout: default
-title: Learning Markdown 
-permalink: alison-mohr.github.io/learning-journal/learning_markdown
 ---
 # Learning Markdown 
 
