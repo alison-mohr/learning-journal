@@ -8,5 +8,5 @@ Growth mindset is a belief that we can *improve our abilities* with additional l
 3. If something doesn't work, take a step back and regroup instead of getting frustrated
 
 ### Resources 
-- [Markdown Basics] (https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
-- [Growth Mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+- [Markdown Basics](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
+- [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
