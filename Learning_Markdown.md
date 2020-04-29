@@ -1,7 +1,4 @@
 
----
-layout: default
----
 # Learning Markdown 
 
 GitHub is an easy-to-use site to create repositories and webiste. GitHub utliizes markdown to style writing on the GitHub platform. 
