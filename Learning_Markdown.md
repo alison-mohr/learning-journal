@@ -1,3 +1,7 @@
+layout: page
+title: Learning Markdown 
+permalink: alison-mohr.github.io/learning-journal/learning_markdown
+
 #Learning Markdown 
 
 GitHub is an easy-to-use site to create repositories and webiste. GitHub utliizes markdown to style writing on the GitHub platform. 
