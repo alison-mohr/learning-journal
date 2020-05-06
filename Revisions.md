@@ -6,7 +6,7 @@ title: Revisions and the Cloud
 
 GitHub repositories can communitcate with a copy of the repository stored on my computer. The developer does not have to use GitHub to make changes to the repository. Instead, changes can be made on the computer and pushed back to GitHub. 
 
-###Important Steps
+## Important Steps
 1. Clone the repository in GitHub by clicking the "Clone or download" button 
 2. Open terminal and go to the directory that your are going to store your repository (use cd ~/your/file/path)
 3. Type cd learning-jounral to move into repository directory 
