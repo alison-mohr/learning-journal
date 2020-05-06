@@ -19,8 +19,8 @@ GitHub is an easy-to-use site to create repositories and webiste. GitHub utliize
 
 
 ## Site Navigation
-- [Home](README.md)
-- [Growth Mindset](GROWTH_MINDSET.md)
-- [Learning Markdown](LEARNING_MARKDOWN.md)
-- [Coder's Computer](CODERS_COMPUTER.md)
-- [Revisions and the Cloud](REVISIONS_AND_THE_CLOUD.md)
+- [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
+- [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
+- [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
+- [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
