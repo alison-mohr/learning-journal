@@ -1,7 +1,3 @@
----
-layout: default
-title: Structure Webpages with HTMl
----
 # Structure Webpages with HTML 
 
 ## Duckett: Chapter 18 - Process & Design 
