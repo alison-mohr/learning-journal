@@ -1,7 +1,3 @@
----
-layout: default
-title: Growth Mindset
----
 ## Growth Mindset
 Growth mindset is a belief that we can *improve our abilities* with additional learning, practice, and perserverance. Growth mindset believes that challenges are opportunities to grow and should be embraced. Areas that I need to focus on to have a growth mindset are: 
 1. Set goals and work to meet them. Monitor my progress!
