@@ -1,5 +1,8 @@
+---
+layout: default
+title: Structure Webpages with HTMl
+---
 # Structure Webpages with HTML 
-
 
 ## Duckett: Chapter 18 - Process & Design 
 * Lots of great tips and information about designing the structure of your website to make it user friendly 
