@@ -1,7 +1,3 @@
----
-layout: default
-title: Revisions and the Cloud
----
 # Revisions and the Cloud
 
 GitHub repositories can communitcate with a copy of the repository stored on my computer. The developer does not have to use GitHub to make changes to the repository. Instead, changes can be made on the computer and pushed back to GitHub. 
