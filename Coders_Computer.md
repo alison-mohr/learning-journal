@@ -1,8 +1,3 @@
----
-layout: default
-title: The Coder's Computer
----
-
 # The Coder's Computer 
 
 In the first assignment, I installed multiple programs (VS Code, Git, Node, NPM, ESLint) to prepare to code. I also accessed my computer's terminal or the first time. Programs used include: 
