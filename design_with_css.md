@@ -15,3 +15,12 @@ CSS stands for cascading style sheets. CSS allows the web developer to apply spe
 - When using color, ensure that there is enough contrast between the text and the background in order for the element to be readable 
 - RGBA adds a fourth value to RGB to indicate opacity 
 - HSLA adds a fourth value to HSL to indicate opacity
+
+## Site Navigation
+- [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
+- [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
+- [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
+- [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
+- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
+- [Designing Webpages with CSS](https:alison-mohr.github.io/learning-journal/design_with_css.html)
