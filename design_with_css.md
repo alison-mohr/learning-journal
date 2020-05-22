@@ -23,4 +23,4 @@ CSS stands for cascading style sheets. CSS allows the web developer to apply spe
 - [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
 - [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
 - [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
-- [Designing Webpages with CSS](https:alison-mohr.github.io/learning-journal/design_with_css.html)
+- [Designing Webpages with CSS](https://alison-mohr.github.io/learning-journal/design_with_css.html)
