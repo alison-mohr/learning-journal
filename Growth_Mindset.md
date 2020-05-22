@@ -4,9 +4,11 @@ Growth mindset is a belief that we can *improve our abilities* with additional l
 2. Look for criticism to help me grow, but always take time to consider what things went right. 
 3. If something doesn't work, take a step back and regroup instead of getting frustrated.
 
-## Site Navigation 
+## Site Navigation
 - [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
 - [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
 - [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
 - [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
-- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html.html)
+- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
+- [Designing Webpages with CSS](https:alison-mohr.github.io/learning-journal/design_with_css.html)
