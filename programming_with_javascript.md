@@ -22,6 +22,18 @@
    1. Declare the function: Give it a name and then write the function needed to achieve its task inside the curly braces 
    2. Call the function: Executes all of the statements between its curly braces with just one line of code
    3. Declare functions that need information: Provide additional information (parameters) needed to help the function perform its task
-        - Parameters act like variables 
    4. Call functions that need information: Specify the values (arguments) the functions should used in the parentheses that follow its name
     5. Get a single value out of a function: Some functions return information to the code that called them 
+    
+    
+ ### Site Navigation
+- [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
+- [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
+- [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
+- [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
+- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
+- [Designing Webpages with CSS](https://alison-mohr.github.io/learning-journal/design_with_css.html)
+- [Dynamic Webpages with JavaScript](https://alison-mohr.github.io/learning-journal/dynamic_webpages_with_javascript.html)
+- [Computer Architecture and Logic](https://alison-mohr.github.io/learning-journal/computer_architecture_and_logic.html)
+- [Programming with Javascript](https://alison-mohr.github.io/learning-journal/programming_with_javascript.html)
