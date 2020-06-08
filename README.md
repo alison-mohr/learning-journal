@@ -9,4 +9,4 @@ Hi! I am Alison Mohr. I recently joined the K-12 Education team at NewBoCo and a
 - [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
 - [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
 - [Designing Webpages with CSS](https:alison-mohr.github.io/learning-journal/design_with_css.html)
-
+- [Dynamic Webpages with JavaScript] (https:alison-mohr.github.io/learning-journal/dynamic_webpages_with_javascript.html)
