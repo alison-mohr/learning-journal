@@ -9,13 +9,13 @@
   2. Design the Script 
   3. Code Each Step 
  
- ## Expressions & Operators - Duckett: JavaScript & jQuery, Chapter 2, pages 74-79
+## Expressions & Operators - Duckett: JavaScript & jQuery, Chapter 2, pages 74-79
  - Expressions evaluate a single value. There are two types: 
     1. Expressions that assign a value to a variable (var color = 'beige')
     2. Expressions that use two or more values to return a single value   (var area = 3*2) 
  - Operators allow programmers to create a single value from one or more values 
  
- ## Functions - Duckett: JavaScript & jQuery, Chapter 2, pages 88-94
+## Functions - Duckett: JavaScript & jQuery, Chapter 2, pages 88-94
  - Functions consist of a series of statements that have been grouped together because they perform a specific task
  - You can reuse a function if parts of the script repeat the same task 
  - To create function, include the steps below: 
@@ -26,7 +26,7 @@
     5. Get a single value out of a function: Some functions return information to the code that called them 
     
     
- ### Site Navigation
+### Site Navigation
 - [Home](https://alison-mohr.github.io/learning-journal/)
 - [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
 - [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
