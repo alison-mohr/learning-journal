@@ -15,7 +15,7 @@
     2. Expressions that use two or more values to return a single value   (var area = 3*2) 
  - Operators allow programmers to create a single value from one or more values 
  
-## Functions - Duckett: JavaScript & jQuery, Chapter 2, pages 88-94
+## Functions
  - Functions consist of a series of statements that have been grouped together because they perform a specific task
  - You can reuse a function if parts of the script repeat the same task 
  - To create function, include the steps below: 
