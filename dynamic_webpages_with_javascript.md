@@ -16,3 +16,13 @@ JavaScript is a programming language used in web development. JavaScript creates
 - Comments can be written with //    Multi-line comments start with /* and end with */
 - Multiple variables can be declared and assigned at once 
 - After you declare a variable, you do not need to include the 'var' when it's used later on 
+
+### Site Navigation
+- [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
+- [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
+- [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
+- [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
+- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
+- [Designing Webpages with CSS](https://alison-mohr.github.io/learning-journal/design_with_css.html)
+- [Dynamic Webpages with JavaScript](https://alison-mohr.github.io/learning-journal/dynamic_webpages_with_javascript.html)
