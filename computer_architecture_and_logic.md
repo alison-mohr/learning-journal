@@ -10,3 +10,8 @@ Computers contain four main parts: input, output, processing, and storage
 - Binary is a string of bits that is used to represent information in a computer
 - Billions of pieces of information, images, videos, and sound can be represented with binary 
 
+## Circuits & Data 
+- Takes information and processes it
+- More sophisticated cirtcuits can combine different pieces of information 
+- Computers use a combination of millions of circuits to process input signals
+
