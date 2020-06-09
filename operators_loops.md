@@ -31,3 +31,17 @@ Example logical operator:   `((5 < 2) && (2>= 3))`
   * For Loops: Allows you to set the number of times you need the loop to run 
   * While: Condition can be set fo rthe code to continue to loop for as long as the condition is true
   * Do... while Loop: Similar to the while loop, but always runs the statements inside the curly braces at least once
+
+
+### Site Navigation
+- [Home](https://alison-mohr.github.io/learning-journal/)
+- [Growth Mindset](https://alison-mohr.github.io/learning-journal/Growth_Mindset.html)
+- [Markdown Basics](https://alison-mohr.github.io/learning-journal/Learning_Markdown.html)
+- [Coder's Computer](https://alison-mohr.github.io/learning-journal/Coders_Computer.html) 
+- [Revisions and the Cloud](https://alison-mohr.github.io/learning-journal/Revisions.html) 
+- [Structuring Websites with HTML](https://alison-mohr.github.io/learning-journal/using_html)
+- [Designing Webpages with CSS](https://alison-mohr.github.io/learning-journal/design_with_css.html)
+- [Dynamic Webpages with JavaScript](https://alison-mohr.github.io/learning-journal/dynamic_webpages_with_javascript.html)
+- [Computer Architecture and Logic](https://alison-mohr.github.io/learning-journal/computer_architecture_and_logic.html)
+- [Programming with Javascript](https://alison-mohr.github.io/learning-journal/programming_with_javascript.html)
+- [Operators and Loops](https://alison-mohr.github.io/learning-journal/operators_loops.html)
